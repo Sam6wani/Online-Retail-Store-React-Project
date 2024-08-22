@@ -1,14 +1,15 @@
-# Online-Retail-Store-React-Project
+                                                  # Online-Retail-Store-React-Project
 
-Before you start:
+Prerequisites before you start to run:
 npm install npm npm install react-icons
 
 
-Description of the Project:
+# Description of the Project:
 
-We have created a dynamic online retail shop for vegetable, fruit traders to sell their produce in real time. Repository Link: https://github.com/rmit-fsd-2024-s1/s3994515-s4045944-a2
+We have created a dynamic online retail shop for vegetable, fruit traders to sell their produce in real time. 
+
  
-# Home Analytics Page
+## Home Analytics Page
 
 The Home Analytics page is composed of several components, each displaying a specific set of data.
 
