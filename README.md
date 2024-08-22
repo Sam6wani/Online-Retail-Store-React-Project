@@ -2,7 +2,6 @@
 
 Before you start:
 npm install npm npm install react-icons
-Reference: [1] “Conent of About Page”, Harvard Health Publishing, https://www.health.harvard.edu/blog/phytonutrients-paint-your-plate-with-the-colors-of-the-rainbow-2019042516501 (accessed April. 8, 2024).
 
 
 Description of the Project:
@@ -90,3 +89,6 @@ A "Delete Review" button is provided. When clicked, it opens a dialog box asking
 The deletion process is handled by the handleDelete function. This function iterates over the selectedReviews array and for each review, it calls the updateReview mutation with the review ID, a placeholder text indicating the review has been deleted, and a flag is_deleted set to true.
 
 After the deletion, the selectedReviews array is cleared and the dialog box is close
+
+
+Reference: [1] “Conent of About Page”, Harvard Health Publishing, https://www.health.harvard.edu/blog/phytonutrients-paint-your-plate-with-the-colors-of-the-rainbow-2019042516501 (accessed April. 8, 2024).
